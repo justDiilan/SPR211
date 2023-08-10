@@ -1,0 +1,6 @@
+﻿  Doubly linked list.cpp
+D:\Учеба\С++ ООП\Stack on base, Doubly linked list\Doubly linked list\Doubly linked list.cpp(17): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Учеба\С++ ООП\Stack on base, Doubly linked list\Doubly linked list\Doubly linked list.cpp(37,22): message : выполняется компиляция ссылки на экземпляр шаблон функции "void printListNew<int>(List<int> &)"
+  List.cpp
+  Создание кода...
+  Doubly linked list.vcxproj -> D:\Учеба\С++ ООП\Stack on base, Doubly linked list\x64\Debug\Doubly linked list.exe
