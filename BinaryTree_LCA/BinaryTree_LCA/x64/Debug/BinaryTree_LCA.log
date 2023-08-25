@@ -1,0 +1,5 @@
+﻿  BinaryTree_LCA.cpp
+  Tree.cpp
+  Создание кода...
+D:\Учеба\С++ ООП\BinaryTree_LCA\BinaryTree_LCA\Tree.cpp(163): warning C4715: Tree<int>::LCA: значение возвращается не при всех путях выполнения
+  BinaryTree_LCA.vcxproj -> D:\Учеба\С++ ООП\BinaryTree_LCA\x64\Debug\BinaryTree_LCA.exe
