@@ -1,8 +1,0 @@
-﻿  PrinterQueue.cpp
-D:\Учеба\С++ ООП\Practice Lesson 3 Stack\Stack Printer\PrinterQueue.h(39,29): error C2512: Stack<PrintRequest>: нет подходящего конструктора по умолчанию
-D:\Учеба\С++ ООП\Practice Lesson 3 Stack\Stack Printer\PrinterQueue.h(8,5): message : см. объявление "Stack<PrintRequest>"
-D:\Учеба\С++ ООП\Practice Lesson 3 Stack\Stack Printer\PrinterQueue.h(42,70): error C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  PrintRequest.cpp
-  Stack Printer.cpp
-  Stack.cpp
-  Создание кода...
