@@ -1,0 +1,8 @@
+D:\Learning\C# OOP Academ\Chess\Chess\bin\Debug\Chess.exe.config
+D:\Learning\C# OOP Academ\Chess\Chess\bin\Debug\Chess.exe
+D:\Learning\C# OOP Academ\Chess\Chess\bin\Debug\Chess.pdb
+D:\Learning\C# OOP Academ\Chess\Chess\obj\Debug\Chess.csproj.AssemblyReference.cache
+D:\Learning\C# OOP Academ\Chess\Chess\obj\Debug\Chess.csproj.SuggestedBindingRedirects.cache
+D:\Learning\C# OOP Academ\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+D:\Learning\C# OOP Academ\Chess\Chess\obj\Debug\Chess.exe
+D:\Learning\C# OOP Academ\Chess\Chess\obj\Debug\Chess.pdb
