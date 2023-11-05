@@ -1,0 +1,8 @@
+D:\Learning\C# OOP Academ\MyString1\MyString1\bin\Debug\MyString1.exe.config
+D:\Learning\C# OOP Academ\MyString1\MyString1\bin\Debug\MyString1.exe
+D:\Learning\C# OOP Academ\MyString1\MyString1\bin\Debug\MyString1.pdb
+D:\Learning\C# OOP Academ\MyString1\MyString1\obj\Debug\MyString1.csproj.AssemblyReference.cache
+D:\Learning\C# OOP Academ\MyString1\MyString1\obj\Debug\MyString1.csproj.SuggestedBindingRedirects.cache
+D:\Learning\C# OOP Academ\MyString1\MyString1\obj\Debug\MyString1.csproj.CoreCompileInputs.cache
+D:\Learning\C# OOP Academ\MyString1\MyString1\obj\Debug\MyString1.exe
+D:\Learning\C# OOP Academ\MyString1\MyString1\obj\Debug\MyString1.pdb
