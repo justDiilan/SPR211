@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elf", "Elf\Elf.csproj", "{152B2E6F-1AFA-4E18-BE06-EE9B68B3696A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elven Mystic", "Elven Mystic\Elven Mystic.csproj", "{9A46DBFA-9731-4FD2-A16D-0370E7540F0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{152B2E6F-1AFA-4E18-BE06-EE9B68B3696A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{152B2E6F-1AFA-4E18-BE06-EE9B68B3696A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{152B2E6F-1AFA-4E18-BE06-EE9B68B3696A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{152B2E6F-1AFA-4E18-BE06-EE9B68B3696A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A46DBFA-9731-4FD2-A16D-0370E7540F0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A46DBFA-9731-4FD2-A16D-0370E7540F0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A46DBFA-9731-4FD2-A16D-0370E7540F0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A46DBFA-9731-4FD2-A16D-0370E7540F0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {319AAF28-1EE4-464C-A04A-59C48A99C511}
+	EndGlobalSection
+EndGlobal

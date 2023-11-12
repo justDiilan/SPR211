@@ -1,0 +1,6 @@
+D:\Learning\C# OOP Academ\Elf\Elven Mystic\bin\Debug\Elven Mystic.dll
+D:\Learning\C# OOP Academ\Elf\Elven Mystic\bin\Debug\Elven Mystic.pdb
+D:\Learning\C# OOP Academ\Elf\Elven Mystic\obj\Debug\Elven Mystic.csproj.AssemblyReference.cache
+D:\Learning\C# OOP Academ\Elf\Elven Mystic\obj\Debug\Elven Mystic.csproj.CoreCompileInputs.cache
+D:\Learning\C# OOP Academ\Elf\Elven Mystic\obj\Debug\Elven Mystic.dll
+D:\Learning\C# OOP Academ\Elf\Elven Mystic\obj\Debug\Elven Mystic.pdb

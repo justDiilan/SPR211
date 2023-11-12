@@ -1,0 +1,11 @@
+D:\Learning\C# OOP Academ\Elf\Elf\bin\Debug\Elf.exe.config
+D:\Learning\C# OOP Academ\Elf\Elf\bin\Debug\Elf.exe
+D:\Learning\C# OOP Academ\Elf\Elf\bin\Debug\Elf.pdb
+D:\Learning\C# OOP Academ\Elf\Elf\bin\Debug\Elven Mystic.dll
+D:\Learning\C# OOP Academ\Elf\Elf\bin\Debug\Elven Mystic.pdb
+D:\Learning\C# OOP Academ\Elf\Elf\obj\Debug\Elf.csproj.AssemblyReference.cache
+D:\Learning\C# OOP Academ\Elf\Elf\obj\Debug\Elf.csproj.SuggestedBindingRedirects.cache
+D:\Learning\C# OOP Academ\Elf\Elf\obj\Debug\Elf.csproj.CoreCompileInputs.cache
+D:\Learning\C# OOP Academ\Elf\Elf\obj\Debug\Elf.csproj.CopyComplete
+D:\Learning\C# OOP Academ\Elf\Elf\obj\Debug\Elf.exe
+D:\Learning\C# OOP Academ\Elf\Elf\obj\Debug\Elf.pdb
