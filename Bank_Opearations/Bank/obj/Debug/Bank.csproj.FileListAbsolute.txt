@@ -1,0 +1,6 @@
+D:\Learning\C# OOP Academ\Bank_Opearations\Bank\bin\Debug\Bank.dll
+D:\Learning\C# OOP Academ\Bank_Opearations\Bank\bin\Debug\Bank.pdb
+D:\Learning\C# OOP Academ\Bank_Opearations\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+D:\Learning\C# OOP Academ\Bank_Opearations\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+D:\Learning\C# OOP Academ\Bank_Opearations\Bank\obj\Debug\Bank.dll
+D:\Learning\C# OOP Academ\Bank_Opearations\Bank\obj\Debug\Bank.pdb

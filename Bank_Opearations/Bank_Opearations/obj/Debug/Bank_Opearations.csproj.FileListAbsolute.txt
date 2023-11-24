@@ -1,0 +1,11 @@
+D:\Learning\C# OOP Academ\Bank_Opearations\Bank_Opearations\bin\Debug\Bank_Opearations.exe.config
+D:\Learning\C# OOP Academ\Bank_Opearations\Bank_Opearations\bin\Debug\Bank_Opearations.exe
+D:\Learning\C# OOP Academ\Bank_Opearations\Bank_Opearations\bin\Debug\Bank_Opearations.pdb
+D:\Learning\C# OOP Academ\Bank_Opearations\Bank_Opearations\bin\Debug\Bank.dll
+D:\Learning\C# OOP Academ\Bank_Opearations\Bank_Opearations\bin\Debug\Bank.pdb
+D:\Learning\C# OOP Academ\Bank_Opearations\Bank_Opearations\obj\Debug\Bank_Opearations.csproj.AssemblyReference.cache
+D:\Learning\C# OOP Academ\Bank_Opearations\Bank_Opearations\obj\Debug\Bank_Opearations.csproj.SuggestedBindingRedirects.cache
+D:\Learning\C# OOP Academ\Bank_Opearations\Bank_Opearations\obj\Debug\Bank_Opearations.csproj.CoreCompileInputs.cache
+D:\Learning\C# OOP Academ\Bank_Opearations\Bank_Opearations\obj\Debug\Bank_Opearations.csproj.CopyComplete
+D:\Learning\C# OOP Academ\Bank_Opearations\Bank_Opearations\obj\Debug\Bank_Opearations.exe
+D:\Learning\C# OOP Academ\Bank_Opearations\Bank_Opearations\obj\Debug\Bank_Opearations.pdb
