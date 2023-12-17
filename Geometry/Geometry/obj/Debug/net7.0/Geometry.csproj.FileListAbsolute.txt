@@ -1,0 +1,15 @@
+D:\Learning\C# OOP Academ\Geometry\Geometry\obj\Debug\net7.0\Geometry.csproj.AssemblyReference.cache
+D:\Learning\C# OOP Academ\Geometry\Geometry\obj\Debug\net7.0\Geometry.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\C# OOP Academ\Geometry\Geometry\obj\Debug\net7.0\Geometry.AssemblyInfoInputs.cache
+D:\Learning\C# OOP Academ\Geometry\Geometry\obj\Debug\net7.0\Geometry.AssemblyInfo.cs
+D:\Learning\C# OOP Academ\Geometry\Geometry\obj\Debug\net7.0\Geometry.csproj.CoreCompileInputs.cache
+D:\Learning\C# OOP Academ\Geometry\Geometry\bin\Debug\net7.0\Geometry.exe
+D:\Learning\C# OOP Academ\Geometry\Geometry\bin\Debug\net7.0\Geometry.deps.json
+D:\Learning\C# OOP Academ\Geometry\Geometry\bin\Debug\net7.0\Geometry.runtimeconfig.json
+D:\Learning\C# OOP Academ\Geometry\Geometry\bin\Debug\net7.0\Geometry.dll
+D:\Learning\C# OOP Academ\Geometry\Geometry\bin\Debug\net7.0\Geometry.pdb
+D:\Learning\C# OOP Academ\Geometry\Geometry\obj\Debug\net7.0\Geometry.dll
+D:\Learning\C# OOP Academ\Geometry\Geometry\obj\Debug\net7.0\refint\Geometry.dll
+D:\Learning\C# OOP Academ\Geometry\Geometry\obj\Debug\net7.0\Geometry.pdb
+D:\Learning\C# OOP Academ\Geometry\Geometry\obj\Debug\net7.0\Geometry.genruntimeconfig.cache
+D:\Learning\C# OOP Academ\Geometry\Geometry\obj\Debug\net7.0\ref\Geometry.dll
