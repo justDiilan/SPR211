@@ -1,0 +1,15 @@
+D:\Learning\C# OOP Academ\GenericsStack\GenericsStack\bin\Debug\net7.0\GenericsStack.exe
+D:\Learning\C# OOP Academ\GenericsStack\GenericsStack\bin\Debug\net7.0\GenericsStack.deps.json
+D:\Learning\C# OOP Academ\GenericsStack\GenericsStack\bin\Debug\net7.0\GenericsStack.runtimeconfig.json
+D:\Learning\C# OOP Academ\GenericsStack\GenericsStack\bin\Debug\net7.0\GenericsStack.dll
+D:\Learning\C# OOP Academ\GenericsStack\GenericsStack\bin\Debug\net7.0\GenericsStack.pdb
+D:\Learning\C# OOP Academ\GenericsStack\GenericsStack\obj\Debug\net7.0\GenericsStack.csproj.AssemblyReference.cache
+D:\Learning\C# OOP Academ\GenericsStack\GenericsStack\obj\Debug\net7.0\GenericsStack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\C# OOP Academ\GenericsStack\GenericsStack\obj\Debug\net7.0\GenericsStack.AssemblyInfoInputs.cache
+D:\Learning\C# OOP Academ\GenericsStack\GenericsStack\obj\Debug\net7.0\GenericsStack.AssemblyInfo.cs
+D:\Learning\C# OOP Academ\GenericsStack\GenericsStack\obj\Debug\net7.0\GenericsStack.csproj.CoreCompileInputs.cache
+D:\Learning\C# OOP Academ\GenericsStack\GenericsStack\obj\Debug\net7.0\GenericsStack.dll
+D:\Learning\C# OOP Academ\GenericsStack\GenericsStack\obj\Debug\net7.0\refint\GenericsStack.dll
+D:\Learning\C# OOP Academ\GenericsStack\GenericsStack\obj\Debug\net7.0\GenericsStack.pdb
+D:\Learning\C# OOP Academ\GenericsStack\GenericsStack\obj\Debug\net7.0\GenericsStack.genruntimeconfig.cache
+D:\Learning\C# OOP Academ\GenericsStack\GenericsStack\obj\Debug\net7.0\ref\GenericsStack.dll
