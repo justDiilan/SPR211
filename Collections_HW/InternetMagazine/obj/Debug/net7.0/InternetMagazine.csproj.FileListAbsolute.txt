@@ -1,0 +1,12 @@
+D:\Learning\C# OOP Academ\Collections_HW\InternetMagazine\bin\Debug\net7.0\InternetMagazine.deps.json
+D:\Learning\C# OOP Academ\Collections_HW\InternetMagazine\bin\Debug\net7.0\InternetMagazine.dll
+D:\Learning\C# OOP Academ\Collections_HW\InternetMagazine\bin\Debug\net7.0\InternetMagazine.pdb
+D:\Learning\C# OOP Academ\Collections_HW\InternetMagazine\obj\Debug\net7.0\InternetMagazine.csproj.AssemblyReference.cache
+D:\Learning\C# OOP Academ\Collections_HW\InternetMagazine\obj\Debug\net7.0\InternetMagazine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\C# OOP Academ\Collections_HW\InternetMagazine\obj\Debug\net7.0\InternetMagazine.AssemblyInfoInputs.cache
+D:\Learning\C# OOP Academ\Collections_HW\InternetMagazine\obj\Debug\net7.0\InternetMagazine.AssemblyInfo.cs
+D:\Learning\C# OOP Academ\Collections_HW\InternetMagazine\obj\Debug\net7.0\InternetMagazine.csproj.CoreCompileInputs.cache
+D:\Learning\C# OOP Academ\Collections_HW\InternetMagazine\obj\Debug\net7.0\InternetMagazine.dll
+D:\Learning\C# OOP Academ\Collections_HW\InternetMagazine\obj\Debug\net7.0\refint\InternetMagazine.dll
+D:\Learning\C# OOP Academ\Collections_HW\InternetMagazine\obj\Debug\net7.0\InternetMagazine.pdb
+D:\Learning\C# OOP Academ\Collections_HW\InternetMagazine\obj\Debug\net7.0\ref\InternetMagazine.dll
