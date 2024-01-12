@@ -1,0 +1,12 @@
+D:\Learning\C# OOP Academ\Linq\Company\bin\Debug\net7.0\Company.deps.json
+D:\Learning\C# OOP Academ\Linq\Company\bin\Debug\net7.0\Company.dll
+D:\Learning\C# OOP Academ\Linq\Company\bin\Debug\net7.0\Company.pdb
+D:\Learning\C# OOP Academ\Linq\Company\obj\Debug\net7.0\Company.csproj.AssemblyReference.cache
+D:\Learning\C# OOP Academ\Linq\Company\obj\Debug\net7.0\Company.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\C# OOP Academ\Linq\Company\obj\Debug\net7.0\Company.AssemblyInfoInputs.cache
+D:\Learning\C# OOP Academ\Linq\Company\obj\Debug\net7.0\Company.AssemblyInfo.cs
+D:\Learning\C# OOP Academ\Linq\Company\obj\Debug\net7.0\Company.csproj.CoreCompileInputs.cache
+D:\Learning\C# OOP Academ\Linq\Company\obj\Debug\net7.0\Company.dll
+D:\Learning\C# OOP Academ\Linq\Company\obj\Debug\net7.0\refint\Company.dll
+D:\Learning\C# OOP Academ\Linq\Company\obj\Debug\net7.0\Company.pdb
+D:\Learning\C# OOP Academ\Linq\Company\obj\Debug\net7.0\ref\Company.dll
