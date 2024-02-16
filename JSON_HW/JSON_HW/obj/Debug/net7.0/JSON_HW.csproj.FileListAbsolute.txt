@@ -1,0 +1,15 @@
+D:\Learning\C# OOP Academ\JSON_HW\JSON_HW\bin\Debug\net7.0\JSON_HW.exe
+D:\Learning\C# OOP Academ\JSON_HW\JSON_HW\bin\Debug\net7.0\JSON_HW.deps.json
+D:\Learning\C# OOP Academ\JSON_HW\JSON_HW\bin\Debug\net7.0\JSON_HW.runtimeconfig.json
+D:\Learning\C# OOP Academ\JSON_HW\JSON_HW\bin\Debug\net7.0\JSON_HW.dll
+D:\Learning\C# OOP Academ\JSON_HW\JSON_HW\bin\Debug\net7.0\JSON_HW.pdb
+D:\Learning\C# OOP Academ\JSON_HW\JSON_HW\obj\Debug\net7.0\JSON_HW.csproj.AssemblyReference.cache
+D:\Learning\C# OOP Academ\JSON_HW\JSON_HW\obj\Debug\net7.0\JSON_HW.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\C# OOP Academ\JSON_HW\JSON_HW\obj\Debug\net7.0\JSON_HW.AssemblyInfoInputs.cache
+D:\Learning\C# OOP Academ\JSON_HW\JSON_HW\obj\Debug\net7.0\JSON_HW.AssemblyInfo.cs
+D:\Learning\C# OOP Academ\JSON_HW\JSON_HW\obj\Debug\net7.0\JSON_HW.csproj.CoreCompileInputs.cache
+D:\Learning\C# OOP Academ\JSON_HW\JSON_HW\obj\Debug\net7.0\JSON_HW.dll
+D:\Learning\C# OOP Academ\JSON_HW\JSON_HW\obj\Debug\net7.0\refint\JSON_HW.dll
+D:\Learning\C# OOP Academ\JSON_HW\JSON_HW\obj\Debug\net7.0\JSON_HW.pdb
+D:\Learning\C# OOP Academ\JSON_HW\JSON_HW\obj\Debug\net7.0\JSON_HW.genruntimeconfig.cache
+D:\Learning\C# OOP Academ\JSON_HW\JSON_HW\obj\Debug\net7.0\ref\JSON_HW.dll
