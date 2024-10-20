@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "bzvaEeqOaqmRsNTLJUEbGIO48qfBAjRmbZlmXvB3e9Y=",
+  "Source": "services_app",
+  "BasePath": "_content/services_app",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "services_app\\wwwroot",
+      "Source": "services_app",
+      "ContentRoot": "C:\\Users\\danii\\OneDrive\\Learning\\ASP .NET Web Prog\\services_app\\services_app\\wwwroot\\",
+      "BasePath": "_content/services_app",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\danii\\OneDrive\\Learning\\ASP .NET Web Prog\\services_app\\services_app\\wwwroot\\frontend\\index.html",
+      "SourceId": "services_app",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\danii\\OneDrive\\Learning\\ASP .NET Web Prog\\services_app\\services_app\\wwwroot\\",
+      "BasePath": "_content/services_app",
+      "RelativePath": "frontend/index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\frontend\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\danii\\OneDrive\\Learning\\ASP .NET Web Prog\\services_app\\services_app\\wwwroot\\frontend\\script.js",
+      "SourceId": "services_app",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\danii\\OneDrive\\Learning\\ASP .NET Web Prog\\services_app\\services_app\\wwwroot\\",
+      "BasePath": "_content/services_app",
+      "RelativePath": "frontend/script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\frontend\\script.js"
+    }
+  ]
+}
