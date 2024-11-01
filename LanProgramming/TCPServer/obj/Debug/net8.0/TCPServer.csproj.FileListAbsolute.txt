@@ -1,0 +1,14 @@
+D:\Learning\SystemProgramming Academ\LanProgramming\TCPServer\bin\Debug\net8.0\TCPServer.exe
+D:\Learning\SystemProgramming Academ\LanProgramming\TCPServer\bin\Debug\net8.0\TCPServer.deps.json
+D:\Learning\SystemProgramming Academ\LanProgramming\TCPServer\bin\Debug\net8.0\TCPServer.runtimeconfig.json
+D:\Learning\SystemProgramming Academ\LanProgramming\TCPServer\bin\Debug\net8.0\TCPServer.dll
+D:\Learning\SystemProgramming Academ\LanProgramming\TCPServer\bin\Debug\net8.0\TCPServer.pdb
+D:\Learning\SystemProgramming Academ\LanProgramming\TCPServer\obj\Debug\net8.0\TCPServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\SystemProgramming Academ\LanProgramming\TCPServer\obj\Debug\net8.0\TCPServer.AssemblyInfoInputs.cache
+D:\Learning\SystemProgramming Academ\LanProgramming\TCPServer\obj\Debug\net8.0\TCPServer.AssemblyInfo.cs
+D:\Learning\SystemProgramming Academ\LanProgramming\TCPServer\obj\Debug\net8.0\TCPServer.csproj.CoreCompileInputs.cache
+D:\Learning\SystemProgramming Academ\LanProgramming\TCPServer\obj\Debug\net8.0\TCPServer.dll
+D:\Learning\SystemProgramming Academ\LanProgramming\TCPServer\obj\Debug\net8.0\refint\TCPServer.dll
+D:\Learning\SystemProgramming Academ\LanProgramming\TCPServer\obj\Debug\net8.0\TCPServer.pdb
+D:\Learning\SystemProgramming Academ\LanProgramming\TCPServer\obj\Debug\net8.0\TCPServer.genruntimeconfig.cache
+D:\Learning\SystemProgramming Academ\LanProgramming\TCPServer\obj\Debug\net8.0\ref\TCPServer.dll

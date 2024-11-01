@@ -1,0 +1,14 @@
+D:\Learning\SystemProgramming Academ\LanProgramming\TCPClient\bin\Debug\net8.0\TCPClient.exe
+D:\Learning\SystemProgramming Academ\LanProgramming\TCPClient\bin\Debug\net8.0\TCPClient.deps.json
+D:\Learning\SystemProgramming Academ\LanProgramming\TCPClient\bin\Debug\net8.0\TCPClient.runtimeconfig.json
+D:\Learning\SystemProgramming Academ\LanProgramming\TCPClient\bin\Debug\net8.0\TCPClient.dll
+D:\Learning\SystemProgramming Academ\LanProgramming\TCPClient\bin\Debug\net8.0\TCPClient.pdb
+D:\Learning\SystemProgramming Academ\LanProgramming\TCPClient\obj\Debug\net8.0\TCPClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\SystemProgramming Academ\LanProgramming\TCPClient\obj\Debug\net8.0\TCPClient.AssemblyInfoInputs.cache
+D:\Learning\SystemProgramming Academ\LanProgramming\TCPClient\obj\Debug\net8.0\TCPClient.AssemblyInfo.cs
+D:\Learning\SystemProgramming Academ\LanProgramming\TCPClient\obj\Debug\net8.0\TCPClient.csproj.CoreCompileInputs.cache
+D:\Learning\SystemProgramming Academ\LanProgramming\TCPClient\obj\Debug\net8.0\TCPClient.dll
+D:\Learning\SystemProgramming Academ\LanProgramming\TCPClient\obj\Debug\net8.0\refint\TCPClient.dll
+D:\Learning\SystemProgramming Academ\LanProgramming\TCPClient\obj\Debug\net8.0\TCPClient.pdb
+D:\Learning\SystemProgramming Academ\LanProgramming\TCPClient\obj\Debug\net8.0\TCPClient.genruntimeconfig.cache
+D:\Learning\SystemProgramming Academ\LanProgramming\TCPClient\obj\Debug\net8.0\ref\TCPClient.dll

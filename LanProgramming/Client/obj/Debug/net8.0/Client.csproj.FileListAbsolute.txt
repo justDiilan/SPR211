@@ -1,0 +1,14 @@
+D:\Learning\SystemProgramming Academ\LanProgramming\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\SystemProgramming Academ\LanProgramming\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+D:\Learning\SystemProgramming Academ\LanProgramming\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+D:\Learning\SystemProgramming Academ\LanProgramming\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+D:\Learning\SystemProgramming Academ\LanProgramming\Client\bin\Debug\net8.0\Client.exe
+D:\Learning\SystemProgramming Academ\LanProgramming\Client\bin\Debug\net8.0\Client.deps.json
+D:\Learning\SystemProgramming Academ\LanProgramming\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+D:\Learning\SystemProgramming Academ\LanProgramming\Client\bin\Debug\net8.0\Client.dll
+D:\Learning\SystemProgramming Academ\LanProgramming\Client\bin\Debug\net8.0\Client.pdb
+D:\Learning\SystemProgramming Academ\LanProgramming\Client\obj\Debug\net8.0\Client.dll
+D:\Learning\SystemProgramming Academ\LanProgramming\Client\obj\Debug\net8.0\refint\Client.dll
+D:\Learning\SystemProgramming Academ\LanProgramming\Client\obj\Debug\net8.0\Client.pdb
+D:\Learning\SystemProgramming Academ\LanProgramming\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+D:\Learning\SystemProgramming Academ\LanProgramming\Client\obj\Debug\net8.0\ref\Client.dll
