@@ -1,0 +1,14 @@
+D:\Learning\Net Prog\broadcast_app\BroadcastClient\bin\Debug\net8.0\BroadcastClient.exe
+D:\Learning\Net Prog\broadcast_app\BroadcastClient\bin\Debug\net8.0\BroadcastClient.deps.json
+D:\Learning\Net Prog\broadcast_app\BroadcastClient\bin\Debug\net8.0\BroadcastClient.runtimeconfig.json
+D:\Learning\Net Prog\broadcast_app\BroadcastClient\bin\Debug\net8.0\BroadcastClient.dll
+D:\Learning\Net Prog\broadcast_app\BroadcastClient\bin\Debug\net8.0\BroadcastClient.pdb
+D:\Learning\Net Prog\broadcast_app\BroadcastClient\obj\Debug\net8.0\BroadcastClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Net Prog\broadcast_app\BroadcastClient\obj\Debug\net8.0\BroadcastClient.AssemblyInfoInputs.cache
+D:\Learning\Net Prog\broadcast_app\BroadcastClient\obj\Debug\net8.0\BroadcastClient.AssemblyInfo.cs
+D:\Learning\Net Prog\broadcast_app\BroadcastClient\obj\Debug\net8.0\BroadcastClient.csproj.CoreCompileInputs.cache
+D:\Learning\Net Prog\broadcast_app\BroadcastClient\obj\Debug\net8.0\BroadcastClient.dll
+D:\Learning\Net Prog\broadcast_app\BroadcastClient\obj\Debug\net8.0\refint\BroadcastClient.dll
+D:\Learning\Net Prog\broadcast_app\BroadcastClient\obj\Debug\net8.0\BroadcastClient.pdb
+D:\Learning\Net Prog\broadcast_app\BroadcastClient\obj\Debug\net8.0\BroadcastClient.genruntimeconfig.cache
+D:\Learning\Net Prog\broadcast_app\BroadcastClient\obj\Debug\net8.0\ref\BroadcastClient.dll

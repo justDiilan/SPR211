@@ -1,0 +1,14 @@
+D:\Learning\Net Prog\broadcast_app\BroadcastServer\bin\Debug\net8.0\BroadcastServer.exe
+D:\Learning\Net Prog\broadcast_app\BroadcastServer\bin\Debug\net8.0\BroadcastServer.deps.json
+D:\Learning\Net Prog\broadcast_app\BroadcastServer\bin\Debug\net8.0\BroadcastServer.runtimeconfig.json
+D:\Learning\Net Prog\broadcast_app\BroadcastServer\bin\Debug\net8.0\BroadcastServer.dll
+D:\Learning\Net Prog\broadcast_app\BroadcastServer\bin\Debug\net8.0\BroadcastServer.pdb
+D:\Learning\Net Prog\broadcast_app\BroadcastServer\obj\Debug\net8.0\BroadcastServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Net Prog\broadcast_app\BroadcastServer\obj\Debug\net8.0\BroadcastServer.AssemblyInfoInputs.cache
+D:\Learning\Net Prog\broadcast_app\BroadcastServer\obj\Debug\net8.0\BroadcastServer.AssemblyInfo.cs
+D:\Learning\Net Prog\broadcast_app\BroadcastServer\obj\Debug\net8.0\BroadcastServer.csproj.CoreCompileInputs.cache
+D:\Learning\Net Prog\broadcast_app\BroadcastServer\obj\Debug\net8.0\BroadcastServer.dll
+D:\Learning\Net Prog\broadcast_app\BroadcastServer\obj\Debug\net8.0\refint\BroadcastServer.dll
+D:\Learning\Net Prog\broadcast_app\BroadcastServer\obj\Debug\net8.0\BroadcastServer.pdb
+D:\Learning\Net Prog\broadcast_app\BroadcastServer\obj\Debug\net8.0\BroadcastServer.genruntimeconfig.cache
+D:\Learning\Net Prog\broadcast_app\BroadcastServer\obj\Debug\net8.0\ref\BroadcastServer.dll
