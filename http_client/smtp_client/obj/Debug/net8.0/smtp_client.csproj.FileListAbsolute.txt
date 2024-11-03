@@ -1,0 +1,14 @@
+D:\Learning\Net Prog\http_client\smtp_client\bin\Debug\net8.0\smtp_client.exe
+D:\Learning\Net Prog\http_client\smtp_client\bin\Debug\net8.0\smtp_client.deps.json
+D:\Learning\Net Prog\http_client\smtp_client\bin\Debug\net8.0\smtp_client.runtimeconfig.json
+D:\Learning\Net Prog\http_client\smtp_client\bin\Debug\net8.0\smtp_client.dll
+D:\Learning\Net Prog\http_client\smtp_client\bin\Debug\net8.0\smtp_client.pdb
+D:\Learning\Net Prog\http_client\smtp_client\obj\Debug\net8.0\smtp_client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Net Prog\http_client\smtp_client\obj\Debug\net8.0\smtp_client.AssemblyInfoInputs.cache
+D:\Learning\Net Prog\http_client\smtp_client\obj\Debug\net8.0\smtp_client.AssemblyInfo.cs
+D:\Learning\Net Prog\http_client\smtp_client\obj\Debug\net8.0\smtp_client.csproj.CoreCompileInputs.cache
+D:\Learning\Net Prog\http_client\smtp_client\obj\Debug\net8.0\smtp_client.dll
+D:\Learning\Net Prog\http_client\smtp_client\obj\Debug\net8.0\refint\smtp_client.dll
+D:\Learning\Net Prog\http_client\smtp_client\obj\Debug\net8.0\smtp_client.pdb
+D:\Learning\Net Prog\http_client\smtp_client\obj\Debug\net8.0\smtp_client.genruntimeconfig.cache
+D:\Learning\Net Prog\http_client\smtp_client\obj\Debug\net8.0\ref\smtp_client.dll

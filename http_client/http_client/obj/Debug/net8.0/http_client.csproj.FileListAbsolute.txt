@@ -1,0 +1,14 @@
+D:\Learning\Net Prog\http_client\http_client\bin\Debug\net8.0\http_client.exe
+D:\Learning\Net Prog\http_client\http_client\bin\Debug\net8.0\http_client.deps.json
+D:\Learning\Net Prog\http_client\http_client\bin\Debug\net8.0\http_client.runtimeconfig.json
+D:\Learning\Net Prog\http_client\http_client\bin\Debug\net8.0\http_client.dll
+D:\Learning\Net Prog\http_client\http_client\bin\Debug\net8.0\http_client.pdb
+D:\Learning\Net Prog\http_client\http_client\obj\Debug\net8.0\http_client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Net Prog\http_client\http_client\obj\Debug\net8.0\http_client.AssemblyInfoInputs.cache
+D:\Learning\Net Prog\http_client\http_client\obj\Debug\net8.0\http_client.AssemblyInfo.cs
+D:\Learning\Net Prog\http_client\http_client\obj\Debug\net8.0\http_client.csproj.CoreCompileInputs.cache
+D:\Learning\Net Prog\http_client\http_client\obj\Debug\net8.0\http_client.dll
+D:\Learning\Net Prog\http_client\http_client\obj\Debug\net8.0\refint\http_client.dll
+D:\Learning\Net Prog\http_client\http_client\obj\Debug\net8.0\http_client.pdb
+D:\Learning\Net Prog\http_client\http_client\obj\Debug\net8.0\http_client.genruntimeconfig.cache
+D:\Learning\Net Prog\http_client\http_client\obj\Debug\net8.0\ref\http_client.dll
